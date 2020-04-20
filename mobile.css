@@ -1,0 +1,31 @@
+body{
+text-align: center;
+}
+.info{
+  flex-direction: column;
+  overflow: ;
+  position:static;
+  column:900px;
+}
+.tag{
+position: static;
+
+}
+#foo{
+  display: block;
+}
+.info .img-mockups img{
+  height:300px;
+}
+.tag{
+  width:100%;
+  justify-content: center;
+  transform: translateY(0px);
+}
+.info .form{
+  margin-left:0;
+  margin-top:0;
+}
+#foo{
+  width:500px;
+}
